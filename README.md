@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sandipan Majumder<br>👀 I’m interested in Programing<br>🌱 I’m currently learning C++ with DSA
+👋 Hi, I’m Sandipan Majumder<br>👀 I’m interested in Programing<br>🌱 I’m currently on learning path
 
 
 ## 🌐 Socials:
